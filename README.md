@@ -97,8 +97,6 @@ int main (int argc, char* argv[])
 ![image](https://github.com/Priyanghaofficial/Linux-File-IO-Systems-locking/assets/147121154/6a9674ab-333d-4bb8-be25-8f3e8bef5530)
 
 
-# RESULT:
-The programs are executed successfully.
 
 
 # RESULT:
