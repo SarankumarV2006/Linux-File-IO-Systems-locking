@@ -1,3 +1,5 @@
+NAME : SARANKUMAR.V
+REGISTER NUMBVER : 212224220089
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
